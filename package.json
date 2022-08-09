@@ -1,0 +1,44 @@
+{
+  "name": "illuminate",
+  "displayName": "Illuminate",
+  "version": "0.1.0",
+  "publisher": "psi-chi",
+  "description": "A theme with luminous syntax highlighting.",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "author": {
+    "name": "Psi"
+  },
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#202225",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psi-chi/illuminate"
+  },
+  "bugs": {
+    "url": "https://github.com/psi-chi/illuminate/issues"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "color-theme",
+    "dark",
+    "illuminate",
+    "theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Illuminate",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Illuminate-color-theme.json"
+      }
+    ]
+  }
+}
