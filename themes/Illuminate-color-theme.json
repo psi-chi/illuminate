@@ -103,9 +103,9 @@
     "list.inactiveSelectionIconForeground": "#ffffff",
     "list.inactiveFocusBackground": "#003060",
     "list.inactiveFocusOutline": "#40d0ff",
-    "list.invalidItemForeground": "#ff6060",
-    "list.errorForeground": "#ff6060",
-    "list.warningForeground": "#ffd860",
+    "list.invalidItemForeground": "#ff8080",
+    "list.errorForeground": "#ff8080",
+    "list.warningForeground": "#ffe080",
     "listFilterWidget.background": "#2f3136",
     "listFilterWidget.outline": "#ffffff00",
     "listFilterWidget.noMatchesOutline": "#ffffff00", // ???
