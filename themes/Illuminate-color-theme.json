@@ -306,6 +306,20 @@
     "editorCommentsWidget.rangeActiveBackground": "#6f7275",
     "editorCommentsWidget.rangeActiveBorder": "#8e9297",
 
+    // Diff editor colors
+    "diffEditor.insertedTextBackground": "#ffffff00",
+    "diffEditor.insertedTextBorder": "#ffffff00",
+    "diffEditor.removedTextBackground": "#ffffff00",
+    "diffEditor.removedTextBorder": "#ffffff00",
+    "diffEditor.border": "#ffffff00",
+    "diffEditor.diagonalFill": "#6f7275",
+    "diffEditor.insertedLineBackground": "#ffffff00",
+    "diffEditor.removedLineBackground": "#ffffff00",
+    "diffEditorGutter.insertedLineBackground": "#003024",
+    "diffEditorGutter.removedLineBackground": "#300000",
+    "diffEditorOverview.insertedForeground": "#80ffe0",
+    "diffEditorOverview.removedForeground": "#ff8080",
+
     // ---
 
     // Panel colors
