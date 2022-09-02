@@ -1,7 +1,7 @@
 {
   "name": "illuminate",
   "displayName": "Illuminate",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "publisher": "psi-chi",
   "description": "A theme with luminous syntax highlighting.",
   "license": "MIT",
@@ -48,6 +48,14 @@
         ],
         "scopeName": "comment-injection.injection",
         "path": "./syntaxes/comment-injection.json"
+      },
+      {
+        "injectTo": [
+          "text.html.derivative",
+          "source"
+        ],
+        "scopeName": "dash-comment-injection.injection",
+        "path": "./syntaxes/dash-comment-injection.json"
       },
       {
         "injectTo": [

@@ -1,6 +1,6 @@
 {
   "scopeName": "comment-injection.injection",
-  "injectionSelector": "R:comment",
+  "injectionSelector": "L:comment",
   "patterns": [
     {
       "include": "#keyword-comment"
@@ -19,9 +19,6 @@
     },
     {
       "include": "#fix-comment"
-    },
-    {
-      "include": "#dash-comment"
     }
   ],
   "repository": {
@@ -48,10 +45,6 @@
     "fix-comment": {
       "name": "comment.fix",
       "match": "FIX:|FIX"
-    },
-    "dash-comment": {
-      "name": "comment.dash",
-      "match": "-"
     }
   }
 }

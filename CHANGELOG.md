@@ -38,6 +38,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Other languages support.
 - Theme website.
 
+## [0.4.1] - 2022-09-02
+
+### Fixed
+
+- TODO behavior in a comment.
+
 ## [0.4.0] - 2022-09-02
 
 ### Added
@@ -79,7 +85,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Everything.
 
-[unreleased]: https://github.com/psi-chi/illuminate/compare/v0.4.0...HEAD
+[unreleased]: https://github.com/psi-chi/illuminate/compare/v0.4.1...HEAD
+[0.4.1]: https://github.com/psi-chi/illuminate/compare/v0.4.0...v0.4.1
 [0.4.0]: https://github.com/psi-chi/illuminate/compare/v0.3.0...v0.4.0
 [0.3.0]: https://github.com/psi-chi/illuminate/compare/v0.2.1...v0.3.0
 [0.2.1]: https://github.com/psi-chi/illuminate/compare/v0.2.0...v0.2.1

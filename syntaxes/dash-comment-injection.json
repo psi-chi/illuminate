@@ -1,0 +1,15 @@
+{
+  "scopeName": "dash-comment-injection.injection",
+  "injectionSelector": "R:comment",
+  "patterns": [
+    {
+      "include": "#dash-comment"
+    }
+  ],
+  "repository": {
+    "dash-comment": {
+      "name": "comment.dash",
+      "match": "-"
+    }
+  }
+}
