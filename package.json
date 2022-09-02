@@ -1,7 +1,7 @@
 {
   "name": "illuminate",
   "displayName": "Illuminate",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "publisher": "psi-chi",
   "description": "A theme with luminous syntax highlighting.",
   "license": "MIT",
@@ -38,6 +38,23 @@
         "label": "Illuminate",
         "uiTheme": "vs-dark",
         "path": "./themes/Illuminate-color-theme.json"
+      }
+    ],
+    "grammars": [
+      {
+        "injectTo": [
+          "text.html.derivative",
+          "source"
+        ],
+        "scopeName": "comment-injection.injection",
+        "path": "./syntaxes/comment-injection.json"
+      },
+      {
+        "injectTo": [
+          "text.html.derivative"
+        ],
+        "scopeName": "html-doctype-injection.injection",
+        "path": "./syntaxes/html-doctype-injection.json"
       }
     ]
   }

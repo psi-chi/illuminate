@@ -9,40 +9,47 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Important
 
-- Editor widget colors
-- Peek view colors
-- Merge conflicts colors
-- Command Centre colors
-- Notification colors
-- Banner colors
-- Extensions colors
-- Quick picker colors
-- Keybinding label colors
-- Keyboard shortcut table colors
-- Debug colors
-- Testing colors
-- Welcome page colors
-- Source Control colors
-- Git colors
-- Snippets colors
-- Symbol Icons colors
-- Debug Icons colors
-- Notebook colors
-- Chart colors
-- Ports colors
-- Markdown support
-- Python support
-- HTML support
-- CSS support
-- JavaScript support
-- TypeScript support
+- Editor widget colors.
+- Peek view colors.
+- Merge conflicts colors.
+- Command centre colors.
+- Notification colors.
+- Banner colors.
+- Extensions colors.
+- Quick picker colors.
+- Keybinding label colors.
+- Keyboard shortcut table colors.
+- Debug colors.
+- Testing colors.
+- Welcome page colors.
+- Source control colors.
+- Git colors.
+- Snippets colors.
+- Symbol icons colors.
+- Debug icons colors.
+- Notebook colors.
+- Chart colors.
+- Ports colors.
 
 ### Others
 
-- Detailed README
-- Other languages support
-- Light theme
-- Theme website
+- Detailed README.
+- Light theme.
+- Other languages support.
+- Theme website.
+
+## [0.4.0] - 2022-09-02
+
+### Added
+
+- CSS support.
+- HTML support.
+- JavaScript support.
+- Markdown support.
+- Python support.
+- TypeScript support.
+- General syntax highlighting.
+- Comment keyword highlighting.
 
 ## [0.3.0] - 2022-08-19
 
@@ -72,8 +79,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Everything.
 
-[unreleased]: https://github.com/psi-chi/illuminate/compare/v0.1.0...HEAD
+[unreleased]: https://github.com/psi-chi/illuminate/compare/v0.4.0...HEAD
+[0.4.0]: https://github.com/psi-chi/illuminate/compare/v0.3.0...v0.4.0
 [0.3.0]: https://github.com/psi-chi/illuminate/compare/v0.2.1...v0.3.0
 [0.2.1]: https://github.com/psi-chi/illuminate/compare/v0.2.0...v0.2.1
 [0.2.0]: https://github.com/psi-chi/illuminate/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/psi-chi/illuminate/releases/tag/v0.1.0
+
+<!-- markdownlint-configure-file {"MD024": false} -->

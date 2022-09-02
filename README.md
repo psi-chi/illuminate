@@ -4,7 +4,13 @@ A theme with luminous syntax highlighting.
 
 ## Preview
 
-![Preview](./images/preview.png)
+### Syntax Highlighting
+
+![Syntax](./images/syntax.png)
+
+### Comment Keyword Highlighting
+
+![Comments](./images/comments.png)
 
 ## Contribute
 

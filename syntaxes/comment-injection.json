@@ -1,0 +1,57 @@
+{
+  "scopeName": "comment-injection.injection",
+  "injectionSelector": "R:comment",
+  "patterns": [
+    {
+      "include": "#keyword-comment"
+    },
+    {
+      "include": "#todo-comment"
+    },
+    {
+      "include": "#add-comment"
+    },
+    {
+      "include": "#change-comment"
+    },
+    {
+      "include": "#remove-comment"
+    },
+    {
+      "include": "#fix-comment"
+    },
+    {
+      "include": "#dash-comment"
+    }
+  ],
+  "repository": {
+    "keyword-comment": {
+      "name": "comment.keyword",
+      "match": "MAIN:|MAIN|FUNCTIONS:|FUNCTIONS|DATA:|DATA|IMPORTS:|IMPORTS|OTHER:|OTHER"
+    },
+    "todo-comment": {
+      "name": "comment.todo",
+      "match": "TODO:|TODO"
+    },
+    "add-comment": {
+      "name": "comment.add",
+      "match": "ADD:|ADD"
+    },
+    "change-comment": {
+      "name": "comment.change",
+      "match": "CHANGE:|CHANGE"
+    },
+    "remove-comment": {
+      "name": "comment.remove",
+      "match": "REMOVE:|REMOVE"
+    },
+    "fix-comment": {
+      "name": "comment.fix",
+      "match": "FIX:|FIX"
+    },
+    "dash-comment": {
+      "name": "comment.dash",
+      "match": "-"
+    }
+  }
+}

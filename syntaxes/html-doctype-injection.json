@@ -1,0 +1,15 @@
+{
+  "scopeName": "html-doctype-injection.injection",
+  "injectionSelector": "L:meta.tag.metadata.doctype.html",
+  "patterns": [
+    {
+      "include": "#doctype-custom"
+    }
+  ],
+  "repository": {
+    "doctype-custom": {
+      "name": "custom.doctype",
+      "match": "DOCTYPE"
+    }
+  }
+}
