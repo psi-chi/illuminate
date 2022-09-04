@@ -325,7 +325,7 @@
     // Panel colors
     "panel.background": "#2f3136",
     "panel.border": "#ffffff00",
-    "panel.dropBorder": "#40a0ff",
+    "panel.dropBorder": "#60b0ff",
     "panelTitle.activeBorder": "#ffffff00",
     "panelTitle.activeForeground": "#ffffff",
     "panelTitle.inactiveForeground": "#b9bbbe",
