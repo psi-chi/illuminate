@@ -38,6 +38,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Other languages support.
 - Theme website.
 
+## [0.4.4] - 2022-09-07
+
+### Fixed
+
+- Typehint behavior in a comment.
+
 ## [0.4.3] - 2022-09-04
 
 ### Fixed
@@ -97,7 +103,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Everything.
 
-[unreleased]: https://github.com/psi-chi/illuminate/compare/v0.4.3...HEAD
+[unreleased]: https://github.com/psi-chi/illuminate/compare/v0.4.4...HEAD
+[0.4.4]: https://github.com/psi-chi/illuminate/compare/v0.4.3...v0.4.4
 [0.4.3]: https://github.com/psi-chi/illuminate/compare/v0.4.2...v0.4.3
 [0.4.2]: https://github.com/psi-chi/illuminate/compare/v0.4.1...v0.4.2
 [0.4.1]: https://github.com/psi-chi/illuminate/compare/v0.4.0...v0.4.1

@@ -630,17 +630,24 @@
       }
     },
     {
-      "name": "Meta",
+      "name": "Function Call",
       "scope": "meta.function-call",
       "settings": {
         "foreground": "#60d8ff"
       }
     },
     {
-      "name": "Meta",
+      "name": "Argument",
       "scope": "meta.function-call.arguments",
       "settings": {
         "foreground": "#dcddde"
+      }
+    },
+    {
+      "name": "Typehint",
+      "scope": "meta.typehint",
+      "settings": {
+        "foreground": "#6f7275"
       }
     },
 
