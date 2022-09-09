@@ -38,6 +38,41 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Other languages support.
 - Theme website.
 
+## [0.5.0] - 2022-09-10
+
+### Added
+
+- Contrast colors.
+
+### Changed
+
+- Error foreground color.
+- Window border color.
+- Block quote background color.
+- Code block background color.
+- Button colors.
+- Checkbox colors.
+- Active input colors.
+- Progress bar color.
+- List colors.
+- Drop into prompt color.
+- Editor overview ruler colors.
+- Comments widget colors.
+- Diff editor colors.
+- Panel border color.
+- Terminal colors.
+- Modified setting indicator color.
+- Active breadcrumb color.
+- Storage color.
+
+### Fixed
+
+- Indentation guide color.
+- Minimap colors.
+- Tab colors.
+- Status bar colors.
+- Typos in CHANGELOG.
+
 ## [0.4.4] - 2022-09-07
 
 ### Fixed
@@ -48,7 +83,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
-- Panel drop border.
+- Panel drop border color.
 
 ## [0.4.2] - 2022-09-04
 
@@ -85,7 +120,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- List colors of errors and warnings to slightly brighter colors.
+- List colors of errors and warnings.
 
 ### Fixed
 
@@ -103,7 +138,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Everything.
 
-[unreleased]: https://github.com/psi-chi/illuminate/compare/v0.4.4...HEAD
+[unreleased]: https://github.com/psi-chi/illuminate/compare/v0.5.0...HEAD
+[0.5.0]: https://github.com/psi-chi/illuminate/compare/v0.4.4...v0.5.0
 [0.4.4]: https://github.com/psi-chi/illuminate/compare/v0.4.3...v0.4.4
 [0.4.3]: https://github.com/psi-chi/illuminate/compare/v0.4.2...v0.4.3
 [0.4.2]: https://github.com/psi-chi/illuminate/compare/v0.4.1...v0.4.2
