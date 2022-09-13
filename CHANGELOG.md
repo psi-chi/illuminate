@@ -38,6 +38,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Other languages support.
 - Theme website.
 
+## [0.5.1] - 2022-09-13
+
+### Added
+
+- CSS pseudo class color.
+- CSS pseudo element color.
+- Svelte name type color.
+
+### Fixed
+
+- CSS constant color.
+- Python capital constant color.
+
 ## [0.5.0] - 2022-09-10
 
 ### Added
@@ -138,7 +151,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Everything.
 
-[unreleased]: https://github.com/psi-chi/illuminate/compare/v0.5.0...HEAD
+[unreleased]: https://github.com/psi-chi/illuminate/compare/v0.5.1...HEAD
+[0.5.1]: https://github.com/psi-chi/illuminate/compare/v0.5.0...v0.5.1
 [0.5.0]: https://github.com/psi-chi/illuminate/compare/v0.4.4...v0.5.0
 [0.4.4]: https://github.com/psi-chi/illuminate/compare/v0.4.3...v0.4.4
 [0.4.3]: https://github.com/psi-chi/illuminate/compare/v0.4.2...v0.4.3

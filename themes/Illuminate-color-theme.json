@@ -716,6 +716,15 @@
       }
     },
 
+    // Markdown
+    {
+      "name": "Fenced Block Language",
+      "scope": "fenced_code.block.language",
+      "settings": {
+        "foreground": "#e8a0ff"
+      }
+    },
+
     // HTML
     {
       "name": "DOCTYPE",
@@ -741,19 +750,42 @@
       }
     },
     {
-      "name": "Constant",
-      "scope": "constant.numeric.css",
+      "name": "Hexadecimals",
+      "scope": "constant.other.color.rgb-value.hex.css",
       "settings": {
         "foreground": "#60ffd8"
       }
     },
-
-    // Markdown
     {
-      "name": "Fenced Block Language",
-      "scope": "fenced_code.block.language",
+      "name": "Pseudo Class",
+      "scope": "entity.other.attribute-name.pseudo-class.css",
       "settings": {
-        "foreground": "#e8a0ff"
+        "foreground": "#dcddde"
+      }
+    },
+    {
+      "name": "Pseudo Element",
+      "scope": "entity.other.attribute-name.pseudo-element.css",
+      "settings": {
+        "foreground": "#dcddde"
+      }
+    },
+
+    // Svelte
+    {
+      "name": "Name Type",
+      "scope": "entity.name.type.svelte",
+      "settings": {
+        "foreground": "#a3a6aa"
+      }
+    },
+
+    // Python
+    {
+      "name": "Capital Constants",
+      "scope": "constant.other.caps.python",
+      "settings": {
+        "foreground": "#dcddde"
       }
     }
   ]
