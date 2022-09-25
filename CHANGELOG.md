@@ -7,12 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-### Important
+- Detailed README.
+- Light theme.
+- Other languages support.
+- Theme website.
+
+## [1.0.0] - 2022-09-25
+
+### Added
 
 - Editor widget colors.
 - Peek view colors.
 - Merge conflicts colors.
-- Command centre colors.
+- Command center colors.
 - Notification colors.
 - Banner colors.
 - Extensions colors.
@@ -31,12 +38,34 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Chart colors.
 - Ports colors.
 
-### Others
+### Changed
 
-- Detailed README.
-- Light theme.
-- Other languages support.
-- Theme website.
+- Input background color.
+- Badge color.
+- Progress bar color.
+- Lists and trees colors.
+- Inactive selection color.
+- Symbol highlight colors.
+- Whitespace color.
+- Black colors.
+- White colors.
+
+### Fixed
+
+- Button separator color.
+- Secondary button hover color.
+- Editor inlay hint background color.
+- Terminal inactive selection background color.
+- Builtin function color.
+- CSS function color.
+- CSS units colors.
+
+### Removed
+
+- Border of button.
+- Border of checkbox.
+- Border of input.
+- Border of lists and trees.
 
 ## [0.5.1] - 2022-09-13
 
@@ -151,7 +180,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Everything.
 
-[unreleased]: https://github.com/psi-chi/illuminate/compare/v0.5.1...HEAD
+[unreleased]: https://github.com/psi-chi/illuminate/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/psi-chi/illuminate/compare/v0.5.1...v1.0.0
 [0.5.1]: https://github.com/psi-chi/illuminate/compare/v0.5.0...v0.5.1
 [0.5.0]: https://github.com/psi-chi/illuminate/compare/v0.4.4...v0.5.0
 [0.4.4]: https://github.com/psi-chi/illuminate/compare/v0.4.3...v0.4.4
