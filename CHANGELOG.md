@@ -12,6 +12,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Other languages support.
 - Theme website.
 
+## [1.1.0] - 2022-09-25
+
+### Added
+
+- GitHub issue templates.
+
 ## [1.0.0] - 2022-09-25
 
 ### Added
@@ -180,7 +186,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Everything.
 
-[unreleased]: https://github.com/psi-chi/illuminate/compare/v1.0.0...HEAD
+[unreleased]: https://github.com/psi-chi/illuminate/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/psi-chi/illuminate/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/psi-chi/illuminate/compare/v0.5.1...v1.0.0
 [0.5.1]: https://github.com/psi-chi/illuminate/compare/v0.5.0...v0.5.1
 [0.5.0]: https://github.com/psi-chi/illuminate/compare/v0.4.4...v0.5.0
