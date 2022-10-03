@@ -1,5 +1,5 @@
 {
-  "scopeName": "html-doctype-injection.injection",
+  "scopeName": "doctype-injection.injection",
   "injectionSelector": "L:meta.tag.metadata.doctype.html",
   "patterns": [
     {

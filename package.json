@@ -33,21 +33,42 @@
     "theme"
   ],
   "contributes": {
-    "themes": [
-      {
-        "label": "Illuminate",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Illuminate-color-theme.json"
-      }
-    ],
+		"css": {
+			"customData": [
+				"custom/css.json"
+			]
+		},
     "grammars": [
+      {
+        "injectTo": [
+          "source.css",
+          "source.svelte"
+        ],
+        "scopeName": "at-rule-property-injection.injection",
+        "path": "syntaxes/css/at-rule-property-injection.json"
+      },
+      {
+        "injectTo": [
+          "source.css",
+          "source.svelte"
+        ],
+        "scopeName": "container-query-injection.injection",
+        "path": "syntaxes/css/container-query-injection.json"
+      },
+      {
+        "injectTo": [
+          "text.html.derivative"
+        ],
+        "scopeName": "doctype-injection.injection",
+        "path": "syntaxes/html/doctype-injection.json"
+      },
       {
         "injectTo": [
           "text.html.derivative",
           "source"
         ],
         "scopeName": "comment-injection.injection",
-        "path": "./syntaxes/comment-injection.json"
+        "path": "syntaxes/universal/comment-injection.json"
       },
       {
         "injectTo": [
@@ -55,14 +76,14 @@
           "source"
         ],
         "scopeName": "dash-comment-injection.injection",
-        "path": "./syntaxes/dash-comment-injection.json"
-      },
+        "path": "syntaxes/universal/dash-comment-injection.json"
+      }
+    ],
+    "themes": [
       {
-        "injectTo": [
-          "text.html.derivative"
-        ],
-        "scopeName": "html-doctype-injection.injection",
-        "path": "./syntaxes/html-doctype-injection.json"
+        "label": "Illuminate",
+        "uiTheme": "vs-dark",
+        "path": "themes/Illuminate-color-theme.json"
       }
     ]
   }

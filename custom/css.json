@@ -1,0 +1,40 @@
+{
+  "version": 1.1,
+  "properties": [
+    {
+      "name": "container-type",
+      "description": "Defines an element as a query container. Descendants can query aspects of its sizing, layout, style and state.",
+      "references": [
+        {
+          "name": "MDN Reference",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries"
+        }
+      ]
+    },
+    {
+      "name": "container-name",
+      "description": "Specifies a list of query container names for @container rules to use to filter which query containers are targeted.",
+      "references": [
+        {
+          "name": "MDN Reference",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries"
+        }
+      ]
+    },
+    {
+      "name": "container",
+      "description": "A shorthand property to set both container-type and container-name.",
+      "references": [
+        {
+          "name": "MDN Reference",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries"
+        }
+      ]
+    }
+  ],
+  "atDirectives": [
+    {
+      "name": "@container"
+    }
+  ]
+}

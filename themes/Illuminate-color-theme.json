@@ -431,8 +431,8 @@
     "statusBarItem.warningForeground": "#ffffff",
     "statusBarItem.compactHoverBackground": "#909399",
     "statusBarItem.focusBorder": "#ffffff00",
-    "statusBarItem.settingsProfilesForeground": "#ffffff",
-    "statusBarItem.settingsProfilesBackground": "#474a50",
+    // "statusBarItem.settingsProfilesForeground": "#ffffff",
+    // "statusBarItem.settingsProfilesBackground": "#474a50",
     "statusBar.focusBorder": "#ffffff00",
 
     // Title bar colors
