@@ -1101,10 +1101,14 @@
         "keyword.other.unit.cqi.css",
         "keyword.other.unit.cqb.css",
         "keyword.other.unit.cqmin.css",
-        "keyword.other.unit.cqmax.css"
+        "keyword.other.unit.cqmax.css",
+        "keyword.other.unit.fr.css",
+        "keyword.other.unit.percentage.css",
+        "variable.parameter.misc.css"
       ],
       "settings": {
-        "foreground": "#dcddde"
+        "foreground": "#dcddde",
+        "fontStyle": "italic"
       }
     },
 
