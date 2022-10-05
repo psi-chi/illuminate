@@ -51,7 +51,7 @@
     // Dropdown control
     "dropdown.background": "#505359",
     "dropdown.listBackground": "#303339",
-    "dropdown.border": "#808389",
+    "dropdown.border": "#ffffff00",
     "dropdown.foreground": "#dcddde",
 
     // Input control
@@ -459,7 +459,7 @@
     "commandCenter.activeForeground": "#ffffff",
     "commandCenter.background": "#505359",
     "commandCenter.activeBackground": "#606369",
-    "commandCenter.border": "#808389",
+    "commandCenter.border": "#ffffff00",
 
     // Notificaiton colors
     "notificationCenter.border": "#808389",
@@ -610,7 +610,7 @@
     "settings.modifiedItemIndicator": "#ffe080",
     "settings.dropdownBackground": "#505359",
     "settings.dropdownForeground": "#dcddde",
-    "settings.dropdownBorder": "#808389",
+    "settings.dropdownBorder": "#ffffff00",
     "settings.dropdownListBorder": "#808389",
     "settings.checkboxBackground": "#505359",
     "settings.checkboxForeground": "#ffffff",
