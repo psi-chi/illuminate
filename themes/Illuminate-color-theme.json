@@ -1128,6 +1128,15 @@
       "settings": {
         "foreground": "#dcddde"
       }
+    },
+
+    // YAML
+    {
+      "name": "",
+      "scope": ["string.unquoted.plain.out.yaml", "string.unquoted.block.yaml"],
+      "settings": {
+        "foreground": "#dcddde"
+      }
     }
   ]
 }

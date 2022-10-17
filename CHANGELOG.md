@@ -7,10 +7,40 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- Detailed README.
 - Light theme.
 - Other languages support.
 - Theme website.
+
+## [1.2.0] - 2022-10-17
+
+### Added
+
+- Container query support.
+- At directive property support.
+- CSS units syntax highlighting.
+- Code of conduct.
+- Contributing guide.
+- Pull request template.
+- Detailed preview.
+- Detailed README.
+- YAML support.
+
+### Changed
+
+- Description.
+- Icon.
+- Banner.
+- GITIGNORE.
+- Black color.
+
+### Fixed
+
+- GitHub issue templates.
+
+### Removed
+
+- Border of dropdowns.
+- Border of the command center.
 
 ## [1.1.0] - 2022-09-25
 
@@ -186,7 +216,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Everything.
 
-[unreleased]: https://github.com/psi-chi/illuminate/compare/v1.1.0...HEAD
+[unreleased]: https://github.com/psi-chi/illuminate/compare/v1.2.0...HEAD
+[1.2.0]: https://github.com/psi-chi/illuminate/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/psi-chi/illuminate/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/psi-chi/illuminate/compare/v0.5.1...v1.0.0
 [0.5.1]: https://github.com/psi-chi/illuminate/compare/v0.5.0...v0.5.1

@@ -1,0 +1,36 @@
+.general {
+  color: #ffffff, #dcddde, #b7bac0, #a0a3a9, #909399, #808389, #707379, #606369,
+    #505359, #474a50, #404349, #373a40, #303339, #272a30, #202122;
+}
+
+.transparent {
+  color: #dcdddec0, #dcdddea0, #dcddde60, #dcddde50, #dcddde40, #ffffff00;
+}
+
+.red {
+  color: #ff8080, #ff6060, #ff4040, #600000;
+}
+
+.blue {
+  color: #80e0ff, #60d8ff, #40d0ff, #60b0ff, #003060;
+}
+
+.green {
+  color: #80ffe0, #60ffd8 #006048;
+}
+
+.golden {
+  color: #ffe080, #ffd860, #ffd040, #ffc080, #603000;
+}
+
+.purple {
+  color: #e8a0ff, #d040ff, #480060;
+}
+
+.brackets {
+  color: #ffd880, #ffd080, #ffc880, #ffb880;
+}
+
+.others {
+  color: #c08448, #b430e0;
+}

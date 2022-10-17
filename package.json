@@ -1,19 +1,19 @@
 {
   "name": "illuminate",
   "displayName": "Illuminate",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "psi-chi",
-  "description": "A theme with luminous syntax highlighting.",
+  "description": "A color theme for Visual Studio Code with luminous syntax and comments highlighting.",
   "license": "MIT",
   "engines": {
-    "vscode": "^1.70.0"
+    "vscode": "^1.72.0"
   },
   "author": {
     "name": "Psi"
   },
   "icon": "images/icon.png",
   "galleryBanner": {
-    "color": "#202225",
+    "color": "#373a40",
     "theme": "dark"
   },
   "repository": {
@@ -28,6 +28,7 @@
   ],
   "keywords": [
     "color-theme",
+    "comments",
     "dark",
     "illuminate",
     "theme"
