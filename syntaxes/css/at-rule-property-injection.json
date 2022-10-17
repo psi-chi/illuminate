@@ -1,0 +1,29 @@
+{
+  "scopeName": "at-rule-property-injection.injection",
+  "injectionSelector": "L:meta.property-name.css",
+  "patterns": [
+    {
+      "include": "#container-type"
+    },
+    {
+      "include": "#container-name"
+    },
+    {
+      "include": "#container"
+    }
+  ],
+  "repository": {
+    "container-type": {
+      "name": "support.type.property-name.css",
+      "match": "container-type"
+    },
+    "container-name": {
+      "name": "support.type.property-name.css",
+      "match": "container-name"
+    },
+    "container": {
+      "name": "support.type.property-name.css",
+      "match": "container"
+    }
+  }
+}

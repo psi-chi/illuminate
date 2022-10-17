@@ -1,0 +1,27 @@
+name: "💡 Feature Request"
+description: Create a new issue to request a feature
+title: "💡 [FEATURE] - <title>"
+labels: ["feature"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: Please enter a brief description of the feature.
+      placeholder: A brief description of the feature...
+    validations:
+      required: true
+  - type: textarea
+    id: drawbacks
+    attributes:
+      label: "Drawbacks"
+      description: Please enter any drawbacks that might arise due to this feature.
+    validations:
+      required: true
+  - type: textarea
+    id: other
+    attributes:
+      label: "Additional Information"
+      description: Please enter any additional information.
+    validations:
+      required: false

@@ -1,0 +1,40 @@
+name: "🐛 Bug Report"
+description: Create a new issue to report a bug
+title: "🐛 [BUG] - <title>"
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: Please enter an explicit description of the issue.
+      placeholder: Short and explicit description of the incident...
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: "Steps to Reproduce"
+      description: Please enter the steps to reproduce the bug.
+      placeholder: |
+        1. Go to ...
+        2. Click on ...
+        3. Scroll down to ...
+        4. See the error
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: "Logs"
+      description: Please enter any relevant log output. Backticks are not needed as this will be automatically formatted into code.
+      render: bash
+    validations:
+      required: false
+  - type: textarea
+    id: other
+    attributes:
+      label: "Additional Information"
+      description: Please enter any additional information.
+    validations:
+      required: false
