@@ -9,7 +9,6 @@
 ![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/psi-chi.illuminate?color=603000&logo=Visual%20Studio%20Code)
 ![GitHub](https://img.shields.io/github/license/psi-chi/illuminate?color=480060&logo=GitHub)
 ![GitHub issues](https://img.shields.io/github/issues/psi-chi/illuminate?color=600000&logo=GitHub)
-[![Discord](https://img.shields.io/badge/-Discord-black.svg?&logo=discord&color=0080ff&logoColor=ffffff)](https://discord.gg/KwTAtYBeMS)
 
 <!-- DESCRIPTION -->
 
@@ -28,7 +27,6 @@ The theme uses all the scopes mentioned [here](https://code.visualstudio.com/api
 3. [Contribute](#contribute)
 4. [License](#license)
 5. [Contact](#contact)
-6. [Donations](#donations)
 
 <!-- PREVIEW -->
 
@@ -66,11 +64,4 @@ Distributed under the [MIT License](LICENSE).
 
 ## Contact
 
-- Join the [Discord](https://discord.gg/KwTAtYBeMS) server
-- Email at psichi1337@outlook.com
-
-<!-- DONATION DETAILS -->
-
-## Donations
-
-If you like my open-source projects and would like to support my work, you can help me to cover gas on MetaMask at `0x17b69dbc1E956b2fEfE6C97f556c84eb346772F0`.
+Email at psichi1337@outlook.com.
