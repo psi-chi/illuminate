@@ -24,7 +24,6 @@ The theme uses all the scopes mentioned [here](https://code.visualstudio.com/api
 2. [Color Palette](#color-palette)
 3. [Contribute](#contribute)
 4. [License](#license)
-5. [Contact](#contact)
 
 <!-- PREVIEW -->
 
