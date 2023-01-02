@@ -1,0 +1,92 @@
+/* Write your global styles here, in SCSS syntax. Variables and mixins from the src/variables.scss file are available here without importing
+font-size: rem
+width: % with max-width or ch
+height: min-height, %
+margin: em/rem, em for padding on buttons
+media queries: em
+clamp(min, ideal, max)
+align-self takes max width while justify-self takes min width required */
+
+:root {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI",
+    "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  --white-1: hsl(0, 0%, 100%);
+  --white-2: hsl(0, 0%, 95%);
+  --black-1: hsl(0, 0%, 20%);
+  --black-2: hsl(0, 0%, 25%);
+  --grey-2: hsl(0, 0%, 45%);
+}
+
+* {
+  background: none;
+  margin: 0;
+  padding: 0;
+  min-width: 0;
+  border: none;
+  outline: none;
+  color: inherit;
+  text-decoration: none;
+  list-style-type: none;
+  box-sizing: border-box;
+}
+
+::before,
+::after {
+  box-sizing: border-box;
+}
+
+::selection {
+  color: var(--white-2);
+  background: var(--black-2);
+}
+
+body {
+  color: var(--grey-2);
+  background: var(--white-2);
+  /* overflow: overlay; */
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+}
+
+sup {
+  vertical-align: top;
+  font-size: 0.625rem;
+}
+
+sub {
+  vertical-align: bottom;
+  font-size: 0.625rem;
+}
+
+button,
+a {
+  cursor: pointer;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  align-self: center;
+}
+
+svg {
+  fill: var(--white-1);
+  display: block;
+  height: 2.25rem;
+  width: 2.25rem;
+}

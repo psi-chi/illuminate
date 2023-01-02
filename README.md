@@ -21,8 +21,6 @@ The theme uses all the scopes mentioned [here](https://code.visualstudio.com/api
 ## Contents
 
 1. [Preview](#preview)
-   - [Syntax Highlighting](#syntax-highlighting)
-   - [Comments Highlighting](#comments-highlighting)
 2. [Color Palette](#color-palette)
 3. [Contribute](#contribute)
 4. [License](#license)
@@ -32,13 +30,7 @@ The theme uses all the scopes mentioned [here](https://code.visualstudio.com/api
 
 ## Preview
 
-### Syntax Highlighting
-
 ![preview](images/preview.gif)
-
-### Comments Highlighting
-
-![comments](images/comments.png)
 
 <!-- COLOR PALETTE -->
 
@@ -59,9 +51,3 @@ Please adhere to the [Code of Condcut](.github/CODE_OF_CONDUCT.md).
 ## License
 
 Distributed under the [MIT License](LICENSE).
-
-<!-- CONTACT DETAILS -->
-
-## Contact
-
-Email at psichi1337@outlook.com.

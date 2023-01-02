@@ -32,14 +32,12 @@ If a maintainer asks you to "rebase" your PR, they're saying that a lot of code 
 Pull requests are the best way to propose changes to the codebase ([Github Flow](https://docs.github.com/en/get-started/quickstart/github-flow)). Please follow the following steps to start contributing:
 
 1. Make sure that no pull request is opened for the same issue.
-2. Fork the repo and create your branch from `lab`.
+2. Fork the repo and create your branch.
 3. If you've added code that should be tested, add tests.
 4. If you've changed APIs, update the documentation.
 5. Ensure the test suite passes.
 6. Make sure your code lints.
-7. Issue the pull request to the `lab` branch.
-
-The `lab` branch will be used for testing the code for a few days before merging with the `main` branch.
+7. Issue a pull request.
 
 ## Commit Message Conventions
 
